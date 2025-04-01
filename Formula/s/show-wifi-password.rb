@@ -11,7 +11,7 @@ class ShowWifiPassword < Formula
   end
 
   depends_on :macos
-  
+
   def install
     bin.install "show-wifi-password.sh" => "show-wifi-password"
   end
