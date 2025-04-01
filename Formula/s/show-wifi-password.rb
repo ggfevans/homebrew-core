@@ -13,5 +13,6 @@ class ShowWifiPassword < Formula
   
     test do
       assert_match "Show WiFi Password", shell_output("#{bin}/show-wifi-password -v")
+      assert_match "Usage:", shell_output("#{bin}/show-wifi-password -h")
     end
   end
