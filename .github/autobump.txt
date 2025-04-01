@@ -75,6 +75,7 @@ ant
 antidote
 antlr
 antlr4-cpp-runtime
+anubis
 anycable-go
 anyquery
 aom
@@ -1166,6 +1167,7 @@ gdal
 gdbm
 gdcm
 gdk-pixbuf
+gdown
 gdu
 geeqie
 geesefs
@@ -1248,6 +1250,7 @@ glances
 glassfish
 glasskube
 glaze
+glbinding
 gleam
 glfw
 glib
@@ -2460,6 +2463,7 @@ numactl
 numbat
 numcpp
 numpy
+nuraft
 nushell
 nuspell
 nut
@@ -2927,6 +2931,7 @@ rage
 railway
 rainfrog
 rakudo-star
+ramalama
 rancher-cli
 ranger
 rapidfuzz-cpp
@@ -3513,6 +3518,7 @@ tintin
 tiny
 tinymist
 tinyproxy
+tinyxml2
 tio
 tippecanoe
 titlecase
@@ -3912,6 +3918,7 @@ zk
 zlib
 zlib-ng
 zlib-ng-compat
+zlib-rs
 zlint
 zlog
 zls
